@@ -1,0 +1,24 @@
+body{
+    background:#DAA520;
+}
+p.vermelho{
+    color:red;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+p.azul{
+    color:blue;
+    font-family: 'Lucida Sans';
+    text-align: left;
+}
+p.verde{
+    color:green;
+    font-family: 'Verdana';
+    text-align: right;
+}
+.geral{
+    color:white;
+}
+h1,h2,h3{
+    color:silver;
+}
